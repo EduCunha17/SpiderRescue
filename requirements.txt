@@ -1,0 +1,25 @@
+ # Spider Rescue
+
+## Descrição
+
+Spider Rescue é um jogo desenvolvido em Python utilizando a biblioteca Pygame.
+
+O jogador controla o Homem-Aranha e deve salvar as donzelas enquanto evita os vilões.
+
+## Controles
+
+- A ou ← : mover para a esquerda
+- D ou → : mover para a direita
+- ENTER : iniciar o jogo
+- ESC : sair
+
+## Objetivo
+
+Salvar 20 donzelas para vencer.
+
+Evitar os vilões para não perder todas as vidas.
+
+## Tecnologias utilizadas
+
+- Python 3
+- Pygame
